@@ -1,0 +1,205 @@
+[
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i3-12100F",
+        "marca": "Intel",
+        "precio": 110,
+        "imagen": "./img/Core i3-12100F.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i3-10100",
+        "marca": "Intel",
+        "precio": 120,
+        "imagen": "./img/Core i3-10100.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i3-10105",
+        "marca": "Intel",
+        "precio": 130,
+        "imagen": "./img/Core i3-10105.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i3-10300",
+        "marca": "Intel",
+        "precio": 140,
+        "imagen": "./img/Core i3-10300.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-12400F",
+        "marca": "Intel",
+        "precio": 170,
+        "imagen": "./img/Core i5-12400F.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-10400",
+        "marca": "Intel",
+        "precio": 160,
+        "imagen": "./img/Core i5-10400.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-10500",
+        "marca": "Intel",
+        "precio": 180,
+        "imagen": "./img/Core i5-10500.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-11400",
+        "marca": "Intel",
+        "precio": 190,
+        "imagen": "./img/Core i5-11400.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-11600K",
+        "marca": "Intel",
+        "precio": 240,
+        "imagen": "./img/Core i5-11600K.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-10600K",
+        "marca": "Intel",
+        "precio": 220,
+        "imagen": "./img/Core i5-10600K.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-10700",
+        "marca": "Intel",
+        "precio": 320,
+        "imagen": "./img/Core i7-10700.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-10700K",
+        "marca": "Intel",
+        "precio": 350,
+        "imagen": "./img/Core i7-10700K.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-11700",
+        "marca": "Intel",
+        "precio": 330,
+        "imagen": "./img/Core i7-11700.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-11700K",
+        "marca": "Intel",
+        "precio": 370,
+        "imagen": "./img/Core i7-11700K.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-10900",
+        "marca": "Intel",
+        "precio": 450,
+        "imagen": "./img/Core i9-10900.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-10900K",
+        "marca": "Intel",
+        "precio": 500,
+        "imagen": "./img/Core i9-10900K.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-11900",
+        "marca": "Intel",
+        "precio": 470,
+        "imagen": "./img/Core i9-11900.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-11900K",
+        "marca": "Intel",
+        "precio": 520,
+        "imagen": "./img/Core i9-11900K.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i3-12100",
+        "marca": "Intel",
+        "precio": 130,
+        "imagen": "./img/Core i3-12100.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-12400",
+        "marca": "Intel",
+        "precio": 190,
+        "imagen": "./img/Core i5-12400.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-12600K",
+        "marca": "Intel",
+        "precio": 290,
+        "imagen": "./img/Core i5-12600K.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-12700",
+        "marca": "Intel",
+        "precio": 350,
+        "imagen": "./img/Core i7-12700.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-12700K",
+        "marca": "Intel",
+        "precio": 410,
+        "imagen": "./img/Core i7-12700K.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-12900",
+        "marca": "Intel",
+        "precio": 520,
+        "imagen": "./img/Core i9-12900.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-12900K",
+        "marca": "Intel",
+        "precio": 570,
+        "imagen": "./img/Core i9-12900K.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i5-13600K",
+        "marca": "Intel",
+        "precio": 320,
+        "imagen": "./img/Core i5-13600K.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i7-13700K",
+        "marca": "Intel",
+        "precio": 420,
+        "imagen": "./img/Core i7-13700K.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-13900K",
+        "marca": "Intel",
+        "precio": 580,
+        "imagen": "./img/Core i9-13900K.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Core i9-13900KS",
+        "marca": "Intel",
+        "precio": 700,
+        "imagen": "./img/Core i9-13900KS.webp"
+    }
+]

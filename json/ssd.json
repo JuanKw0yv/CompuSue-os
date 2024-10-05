@@ -1,0 +1,182 @@
+[
+    {
+        "modelo": "Samsung 970 EVO Plus",
+        "marca": "Samsung",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3500,
+        "escrituraSecuencial": 3300,
+        "precio": 130,
+        "imagen": "./img/Samsung 970 EVO Plus.jpeg"
+    },
+    {
+        "modelo": "WD Black SN850",
+        "marca": "Western Digital",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7000,
+        "escrituraSecuencial": 5300,
+        "precio": 150,
+        "imagen": "./img/WD Black SN850.jpg"
+    },
+    {
+        "modelo": "Crucial MX500",
+        "marca": "Crucial",
+        "capacidad": "1TB",
+        "tipo": "SATA",
+        "lecturaSecuencial": 560,
+        "escrituraSecuencial": 510,
+        "precio": 85,
+        "imagen": "./img/Crucial MX500.jpeg"
+    },
+    {
+        "modelo": "Samsung 980 Pro",
+        "marca": "Samsung",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7000,
+        "escrituraSecuencial": 5000,
+        "precio": 220,
+        "imagen": "./img/Samsung 980 Pro.jpg"
+    },
+    {
+        "modelo": "Kingston KC2500",
+        "marca": "Kingston",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3500,
+        "escrituraSecuencial": 2900,
+        "precio": 140,
+        "imagen": "./img/Kingston KC2500.jpg"
+    },
+    {
+        "modelo": "Sabrent Rocket 4 Plus",
+        "marca": "Sabrent",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7100,
+        "escrituraSecuencial": 6600,
+        "precio": 250,
+        "imagen": "./img/Sabrent Rocket 4 Plus.jpeg"
+    },
+    {
+        "modelo": "WD Blue SN550",
+        "marca": "Western Digital",
+        "capacidad": "500GB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 2400,
+        "escrituraSecuencial": 1950,
+        "precio": 60,
+        "imagen": "./img/WD Blue SN550.jpeg"
+    },
+    {
+        "modelo": "Crucial P5 Plus",
+        "marca": "Crucial",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 6600,
+        "escrituraSecuencial": 5000,
+        "precio": 150,
+        "imagen": "./img/Crucial P5 Plus.jpg"
+    },
+    {
+        "modelo": "ADATA XPG SX8200 Pro",
+        "marca": "ADATA",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3500,
+        "escrituraSecuencial": 3000,
+        "precio": 120,
+        "imagen": "./img/ADATA XPG SX8200 Pro.jpeg"
+    },
+    {
+        "modelo": "Seagate FireCuda 520",
+        "marca": "Seagate",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 5000,
+        "escrituraSecuencial": 4850,
+        "precio": 210,
+        "imagen": "./img/Seagate FireCuda 520.jpeg"
+    },
+    {
+        "modelo": "Samsung 870 EVO",
+        "marca": "Samsung",
+        "capacidad": "2TB",
+        "tipo": "SATA",
+        "lecturaSecuencial": 560,
+        "escrituraSecuencial": 530,
+        "precio": 220,
+        "imagen": "./img/Samsung 870 EVO.jpg"
+    },
+    {
+        "modelo": "WD Black SN770",
+        "marca": "Western Digital",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 5150,
+        "escrituraSecuencial": 4900,
+        "precio": 130,
+        "imagen": "./img/WD Black SN770.jpeg"
+    },
+    {
+        "modelo": "Kingston A2000",
+        "marca": "Kingston",
+        "capacidad": "500GB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 2200,
+        "escrituraSecuencial": 2000,
+        "precio": 70,
+        "imagen": "./img/Kingston A2000.jpeg"
+    },
+    {
+        "modelo": "Sabrent Rocket Q",
+        "marca": "Sabrent",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 3200,
+        "escrituraSecuencial": 2900,
+        "precio": 110,
+        "imagen": "./img/Sabrent Rocket Q.jpeg"
+    },
+    {
+        "modelo": "Corsair MP600 PRO",
+        "marca": "Corsair",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7000,
+        "escrituraSecuencial": 6800,
+        "precio": 240,
+        "imagen": "./img/Corsair MP600 PRO.jpeg"
+    },
+    {
+        "modelo": "Samsung 860 EVO",
+        "marca": "Samsung",
+        "capacidad": "1TB",
+        "tipo": "SATA",
+        "lecturaSecuencial": 550,
+        "escrituraSecuencial": 520,
+        "precio": 100,
+        "imagen": "./img/Samsung 860 EVO.jpeg"
+    },
+    {
+        "modelo": "TeamGroup T-Force Cardea Zero Z440",
+        "marca": "TeamGroup",
+        "capacidad": "1TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 5000,
+        "escrituraSecuencial": 4400,
+        "precio": 140,
+        "imagen": "./img/TeamGroup T-Force Cardea Zero Z440.jpeg"
+    },
+    {
+        "modelo": "Patriot Viper VP4300",
+        "marca": "Patriot",
+        "capacidad": "2TB",
+        "tipo": "M.2 NVMe",
+        "lecturaSecuencial": 7400,
+        "escrituraSecuencial": 6800,
+        "precio": 270,
+        "imagen": "./img/Patriot Viper VP4300.jpeg"
+    }
+]

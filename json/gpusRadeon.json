@@ -1,0 +1,128 @@
+[
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 5500 XT",
+        "marca": "AMD",
+        "precio": 199,
+        "imagen": "./img/RX 5500 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 5600 XT",
+        "marca": "AMD",
+        "precio": 279,
+        "imagen": "./img/RX 5600 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 5700",
+        "marca": "AMD",
+        "precio": 349,
+        "imagen": "./img/RX 5700.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 5700 XT",
+        "marca": "AMD",
+        "precio": 399,
+        "imagen": "./img/RX 5700 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6600",
+        "marca": "AMD",
+        "precio": 329,
+        "imagen": "./img/RX 6600.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6600 XT",
+        "marca": "AMD",
+        "precio": 379,
+        "imagen": "./img/RX 6600 XT.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6650 XT",
+        "marca": "AMD",
+        "precio": 399,
+        "imagen": "./img/RX 6650 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6700 XT",
+        "marca": "AMD",
+        "precio": 479,
+        "imagen": "./img/RX 6700 XT.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6750 XT",
+        "marca": "AMD",
+        "precio": 549,
+        "imagen": "./img/RX 6750 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6800",
+        "marca": "AMD",
+        "precio": 579,
+        "imagen": "./img/RX 6800.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6800 XT",
+        "marca": "AMD",
+        "precio": 649,
+        "imagen": "./img/RX 6800 XT.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6900 XT",
+        "marca": "AMD",
+        "precio": 999,
+        "imagen": "./img/RX 6900 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 6950 XT",
+        "marca": "AMD",
+        "precio": 1099,
+        "imagen": "./img/RX 6950 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 7600",
+        "marca": "AMD",
+        "precio": 269,
+        "imagen": "./img/RX 7600.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 7700 XT",
+        "marca": "AMD",
+        "precio": 449,
+        "imagen": "./img/RX 7700 XT.jpeg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 7800 XT",
+        "marca": "AMD",
+        "precio": 499,
+        "imagen": "./img/RX 7800 XT.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 7900 XT",
+        "marca": "AMD",
+        "precio": 849,
+        "imagen": "./img/RX 7900 XT.jpg"
+    },
+    {
+        "constructor": "TarjetaGrafica",
+        "modelo": "RX 7900 XTX",
+        "marca": "AMD",
+        "precio": 999,
+        "imagen": "./img/RX 7900 XTX.jpeg"
+    }
+]

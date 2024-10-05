@@ -1,0 +1,146 @@
+[
+    {
+        "modelo": "Corsair Vengeance LPX 16GB",
+        "marca": "Corsair",
+        "capacidad": "16GB (2x8GB)",
+        "frecuencia": 3200,
+        "tipo": "DDR4",
+        "precio": 70,
+        "imagen": "./img/Corsair Vengeance LPX 16GB.jpg"
+    },
+    {
+        "modelo": "G.Skill Ripjaws V 16GB",
+        "marca": "G.Skill",
+        "capacidad": "16GB (2x8GB)",
+        "frecuencia": 3600,
+        "tipo": "DDR4",
+        "precio": 80,
+        "imagen": "./img/G.Skill Ripjaws V 16GB.jpeg"
+    },
+    {
+        "modelo": "Kingston FURY Beast 32GB",
+        "marca": "Kingston",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 3200,
+        "tipo": "DDR4",
+        "precio": 120,
+        "imagen": "./img/Kingston FURY Beast 32GB.jpeg"
+    },
+    {
+        "modelo": "Corsair Dominator Platinum RGB 32GB",
+        "marca": "Corsair",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 3600,
+        "tipo": "DDR4",
+        "precio": 150,
+        "imagen": "./img/Corsair Dominator Platinum RGB 32GB.jpeg"
+    },
+    {
+        "modelo": "G.Skill Trident Z RGB 32GB",
+        "marca": "G.Skill",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 4000,
+        "tipo": "DDR4",
+        "precio": 180,
+        "imagen": "./img/G.Skill Trident Z RGB 32GB.jpg"
+    },
+    {
+        "modelo": "Kingston FURY Beast 64GB",
+        "marca": "Kingston",
+        "capacidad": "64GB (2x32GB)",
+        "frecuencia": 3200,
+        "tipo": "DDR4",
+        "precio": 250,
+        "imagen": "./img/Kingston FURY Beast 64GB.jpg"
+    },
+    {
+        "modelo": "Corsair Vengeance DDR5 32GB",
+        "marca": "Corsair",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 5200,
+        "tipo": "DDR5",
+        "precio": 220,
+        "imagen": "./img/Corsair Vengeance DDR5 32GB.jpeg"
+    },
+    {
+        "modelo": "G.Skill Ripjaws S5 32GB",
+        "marca": "G.Skill",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 6000,
+        "tipo": "DDR5",
+        "precio": 250,
+        "imagen": "./img/G.Skill Ripjaws S5 32GB.jpeg"
+    },
+    {
+        "modelo": "Crucial Ballistix 16GB",
+        "marca": "Crucial",
+        "capacidad": "16GB (2x8GB)",
+        "frecuencia": 3200,
+        "tipo": "DDR4",
+        "precio": 65,
+        "imagen": "./img/Crucial Ballistix 16GB.jpeg"
+    },
+    {
+        "modelo": "TeamGroup T-Force Delta RGB 32GB",
+        "marca": "TeamGroup",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 3600,
+        "tipo": "DDR4",
+        "precio": 140,
+        "imagen": "./img/TeamGroup T-Force Delta RGB 32GB.jpg"
+    },
+    {
+        "modelo": "Corsair Dominator Platinum RGB 64GB",
+        "marca": "Corsair",
+        "capacidad": "64GB (2x32GB)",
+        "frecuencia": 5200,
+        "tipo": "DDR5",
+        "precio": 450,
+        "imagen": "./img/Corsair Dominator Platinum RGB 64GB.jpeg"
+    },
+    {
+        "modelo": "G.Skill Trident Z5 RGB 32GB",
+        "marca": "G.Skill",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 6000,
+        "tipo": "DDR5",
+        "precio": 280,
+        "imagen": "./img/G.Skill Trident Z5 RGB 32GB.jpeg"
+    },
+    {
+        "modelo": "TeamGroup Elite Plus 16GB",
+        "marca": "TeamGroup",
+        "capacidad": "16GB (2x8GB)",
+        "frecuencia": 3200,
+        "tipo": "DDR4",
+        "precio": 60,
+        "imagen": "./img/TeamGroup Elite Plus 16GB.jpeg"
+    },
+    {
+        "modelo": "Crucial Ballistix Max 32GB",
+        "marca": "Crucial",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 4000,
+        "tipo": "DDR4",
+        "precio": 200,
+        "imagen": "./img/Crucial Ballistix Max 32GB.jpeg"
+    },
+    {
+        "modelo": "Kingston FURY Renegade 32GB",
+        "marca": "Kingston",
+        "capacidad": "32GB (2x16GB)",
+        "frecuencia": 6000,
+        "tipo": "DDR5",
+        "precio": 240,
+        "imagen": "./img/Kingston FURY Renegade 32GB.jpg"
+    },
+    {
+        "modelo": "Patriot Viper Steel 16GB",
+        "marca": "Patriot",
+        "capacidad": "16GB (2x8GB)",
+        "frecuencia": 3733,
+        "tipo": "DDR4",
+        "precio": 75,
+        "imagen": "./img/Patriot Viper Steel 16GB.jpeg"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 3 3100",
+        "marca": "AMD",
+        "precio": 100,
+        "imagen": "./img/Ryzen 3 3100.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 3 4100",
+        "marca": "AMD",
+        "precio": 110,
+        "imagen": "./img/Ryzen 3 4100.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 3 3300X",
+        "marca": "AMD",
+        "precio": 120,
+        "imagen": "./img/Ryzen 3 3300X.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 5 4600G",
+        "marca": "AMD",
+        "precio": 170,
+        "imagen": "./img/Ryzen 5 4600G.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 5 5600",
+        "marca": "AMD",
+        "precio": 190,
+        "imagen": "./img/Ryzen 5 5600.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 5 5600X",
+        "marca": "AMD",
+        "precio": 210,
+        "imagen": "./img/Ryzen 5 5600X.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 5 7600",
+        "marca": "AMD",
+        "precio": 230,
+        "imagen": "./img/Ryzen 5 7600.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 5 7600X",
+        "marca": "AMD",
+        "precio": 250,
+        "imagen": "./img/Ryzen 5 7600X.avif"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 3700X",
+        "marca": "AMD",
+        "precio": 300,
+        "imagen": "./img/Ryzen 7 3700X.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 5700G",
+        "marca": "AMD",
+        "precio": 300,
+        "imagen": "./img/Ryzen 7 5700G.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 3800X",
+        "marca": "AMD",
+        "precio": 320,
+        "imagen": "./img/Ryzen 7 3800X.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 7700",
+        "marca": "AMD",
+        "precio": 360,
+        "imagen": "./img/Ryzen 7 7700.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 7700X",
+        "marca": "AMD",
+        "precio": 380,
+        "imagen": "./img/Ryzen 7 7700X.avif"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 5800X",
+        "marca": "AMD",
+        "precio": 350,
+        "imagen": "./img/Ryzen 7 5800X.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 7 5800X3D",
+        "marca": "AMD",
+        "precio": 400,
+        "imagen": "./img/Ryzen 7 5800X3D.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 9 7900",
+        "marca": "AMD",
+        "precio": 420,
+        "imagen": "./img/Ryzen 9 7900.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 9 7900X",
+        "marca": "AMD",
+        "precio": 500,
+        "imagen": "./img/Ryzen 9 7900X.avif"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 9 3900X",
+        "marca": "AMD",
+        "precio": 500,
+        "imagen": "./img/Ryzen 9 3900X.webp"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 9 5950X",
+        "marca": "AMD",
+        "precio": 800,
+        "imagen": "./img/Ryzen 9 5950X.jpg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 9 3950X",
+        "marca": "AMD",
+        "precio": 750,
+        "imagen": "./img/Ryzen 9 3950X.jpeg"
+    },
+    {
+        "constructor": "Procesador",
+        "modelo": "Ryzen 9 7950X",
+        "marca": "AMD",
+        "precio": 700,
+        "imagen": "./img/Ryzen 9 7950X.jpg"
+    }
+]

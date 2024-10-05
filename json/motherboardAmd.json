@@ -1,0 +1,130 @@
+[
+    {
+        "modelo": "ASUS ROG Crosshair X670E Hero",
+        "marca": "ASUS",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "precio": 500,
+        "imagen": "./img/ASUS ROG Crosshair X670E Hero.jpg"
+    },
+    {
+        "modelo": "MSI MEG X670E Ace",
+        "marca": "MSI",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "precio": 550,
+        "imagen": "./img/MSI MEG X670E Ace.jpeg"
+    },
+    {
+        "modelo": "Gigabyte X670 AORUS Master",
+        "marca": "Gigabyte",
+        "socket": "AM5",
+        "chipset": "X670",
+        "precio": 450,
+        "imagen": "./img/Gigabyte X670 AORUS Master.jpeg"
+    },
+    {
+        "modelo": "ASRock X670E Taichi",
+        "marca": "ASRock",
+        "socket": "AM5",
+        "chipset": "X670E",
+        "precio": 480,
+        "imagen": "./img/ASRock X670E Taichi.jpeg"
+    },
+    {
+        "modelo": "ASUS ROG Strix X570-E Gaming WiFi II",
+        "marca": "ASUS",
+        "socket": "AM4",
+        "chipset": "X570",
+        "precio": 320,
+        "imagen": "./img/ASUS ROG Strix X570-E Gaming WiFi II.jpeg"
+    },
+    {
+        "modelo": "MSI MPG B550 Gaming Edge WiFi",
+        "marca": "MSI",
+        "socket": "AM4",
+        "chipset": "B550",
+        "precio": 180,
+        "imagen": "./img/MSI MPG B550 Gaming Edge WiFi.jpeg"
+    },
+    {
+        "modelo": "Gigabyte B550 AORUS Elite V2",
+        "marca": "Gigabyte",
+        "socket": "AM4",
+        "chipset": "B550",
+        "precio": 160,
+        "imagen": "./img/Gigabyte B550 AORUS Elite V2.jpeg"
+    },
+    {
+        "modelo": "ASRock B450 Steel Legend",
+        "marca": "ASRock",
+        "socket": "AM4",
+        "chipset": "B450",
+        "precio": 100,
+        "imagen": "./img/ASRock B450 Steel Legend.jpeg"
+    },
+    {
+        "modelo": "ASUS TUF Gaming X570-Plus WiFi",
+        "marca": "ASUS",
+        "socket": "AM4",
+        "chipset": "X570",
+        "precio": 200,
+        "imagen": "./img/ASUS TUF Gaming X570-Plus WiFi.jpg"
+    },
+    {
+        "modelo": "MSI B450 Tomahawk Max",
+        "marca": "MSI",
+        "socket": "AM4",
+        "chipset": "B450",
+        "precio": 110,
+        "imagen": "./img/MSI B450 Tomahawk Max.jpeg"
+    },
+    {
+        "modelo": "Gigabyte X570 AORUS Elite",
+        "marca": "Gigabyte",
+        "socket": "AM4",
+        "chipset": "X570",
+        "precio": 200,
+        "imagen": "./img/Gigabyte X570 AORUS Elite.jpeg"
+    },
+    {
+        "modelo": "ASRock B550 Taichi",
+        "marca": "ASRock",
+        "socket": "AM4",
+        "chipset": "B550",
+        "precio": 240,
+        "imagen": "./img/ASRock B550 Taichi.jpeg"
+    },
+    {
+        "modelo": "ASUS ROG Crosshair V Formula-Z",
+        "marca": "ASUS",
+        "socket": "AM3+",
+        "chipset": "990FX",
+        "precio": 200,
+        "imagen": "./img/ASUS ROG Crosshair V Formula-Z.jpeg"
+    },
+    {
+        "modelo": "MSI 970 Gaming",
+        "marca": "MSI",
+        "socket": "AM3+",
+        "chipset": "970",
+        "precio": 130,
+        "imagen": "./img/MSI 970 Gaming.jpeg"
+    },
+    {
+        "modelo": "Gigabyte GA-990FXA-UD3",
+        "marca": "Gigabyte",
+        "socket": "AM3+",
+        "chipset": "990FX",
+        "precio": 150,
+        "imagen": "./img/Gigabyte GA-990FXA-UD3.jpeg"
+    },
+    {
+        "modelo": "ASRock 970 Extreme4",
+        "marca": "ASRock",
+        "socket": "AM3+",
+        "chipset": "970",
+        "precio": 110,
+        "imagen": "./img/ASRock 970 Extreme4.jpeg"
+    }
+]

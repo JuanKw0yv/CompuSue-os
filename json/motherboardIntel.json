@@ -1,0 +1,178 @@
+[
+    {
+        "modelo": "ASUS ROG Strix Z690-E Gaming WiFi",
+        "marca": "ASUS",
+        "socket": "LGA 1700",
+        "chipset": "Z690",
+        "precio": 380,
+        "imagen": "./img/ASUS ROG Strix Z690-E Gaming WiFi.jpg"
+    },
+    {
+        "modelo": "MSI MPG Z690 Carbon WiFi",
+        "marca": "MSI",
+        "socket": "LGA 1700",
+        "chipset": "Z690",
+        "precio": 350,
+        "imagen": "./img/MSI MPG Z690 Carbon WiFi.jpeg"
+    },
+    {
+        "modelo": "Gigabyte Z690 AORUS Elite AX",
+        "marca": "Gigabyte",
+        "socket": "LGA 1700",
+        "chipset": "Z690",
+        "precio": 320,
+        "imagen": "./img/Gigabyte Z690 AORUS Elite AX.jpeg"
+    },
+    {
+        "modelo": "ASRock Z690 Extreme",
+        "marca": "ASRock",
+        "socket": "LGA 1700",
+        "chipset": "Z690",
+        "precio": 270,
+        "imagen": "./img/ASRock Z690 Extreme.jpeg"
+    },
+    {
+        "modelo": "ASUS ROG Strix Z490-E Gaming",
+        "marca": "ASUS",
+        "socket": "LGA 1200",
+        "chipset": "Z490",
+        "precio": 280,
+        "imagen": "./img/ASUS ROG Strix Z490-E Gaming.jpeg"
+    },
+    {
+        "modelo": "MSI MPG Z490 Gaming Edge WiFi",
+        "marca": "MSI",
+        "socket": "LGA 1200",
+        "chipset": "Z490",
+        "precio": 200,
+        "imagen": "./img/MSI MPG Z490 Gaming Edge WiFi.jpeg"
+    },
+    {
+        "modelo": "Gigabyte Z490 AORUS Master",
+        "marca": "Gigabyte",
+        "socket": "LGA 1200",
+        "chipset": "Z490",
+        "precio": 300,
+        "imagen": "./img/Gigabyte Z490 AORUS Master.jpeg"
+    },
+    {
+        "modelo": "ASRock Z490 Taichi",
+        "marca": "ASRock",
+        "socket": "LGA 1200",
+        "chipset": "Z490",
+        "precio": 370,
+        "imagen": "./img/ASRock Z490 Taichi.jpeg"
+    },
+    {
+        "modelo": "ASUS Prime Z590-A",
+        "marca": "ASUS",
+        "socket": "LGA 1200",
+        "chipset": "Z590",
+        "precio": 250,
+        "imagen": "./img/ASUS Prime Z590-A.jpeg"
+    },
+    {
+        "modelo": "MSI MEG Z590 ACE",
+        "marca": "MSI",
+        "socket": "LGA 1200",
+        "chipset": "Z590",
+        "precio": 400,
+        "imagen": "./img/MSI MEG Z590 ACE.jpeg"
+    },
+    {
+        "modelo": "Gigabyte Z590 AORUS Elite",
+        "marca": "Gigabyte",
+        "socket": "LGA 1200",
+        "chipset": "Z590",
+        "precio": 230,
+        "imagen": "./img/Gigabyte Z590 AORUS Elite.jpeg"
+    },
+    {
+        "modelo": "ASRock Z590 Extreme WiFi 6E",
+        "marca": "ASRock",
+        "socket": "LGA 1200",
+        "chipset": "Z590",
+        "precio": 220,
+        "imagen": "./img/ASRock Z590 Extreme WiFi 6E.jpg"
+    },
+    {
+        "modelo": "MSI Z390-A PRO",
+        "marca": "MSI",
+        "socket": "LGA 1151",
+        "chipset": "Z390",
+        "precio": 140,
+        "imagen": "./img/MSI Z390-A PRO.jpeg"
+    },
+    {
+        "modelo": "Gigabyte Z390 AORUS Ultra",
+        "marca": "Gigabyte",
+        "socket": "LGA 1151",
+        "chipset": "Z390",
+        "precio": 260,
+        "imagen": "./img/Gigabyte Z390 AORUS Ultra.jpeg"
+    },
+    {
+        "modelo": "ASUS ROG Maximus XI Hero (Wi-Fi)",
+        "marca": "ASUS",
+        "socket": "LGA 1151",
+        "chipset": "Z390",
+        "precio": 290,
+        "imagen": "./img/ASUS ROG Maximus XI Hero (Wi-Fi).jpeg"
+    },
+    {
+        "modelo": "ASRock Z390 Phantom Gaming 4",
+        "marca": "ASRock",
+        "socket": "LGA 1151",
+        "chipset": "Z390",
+        "precio": 150,
+        "imagen": "./img/ASRock Z390 Phantom Gaming 4.jpeg"
+    },
+    {
+        "modelo": "MSI MPG Z390 Gaming Pro Carbon",
+        "marca": "MSI",
+        "socket": "LGA 1151",
+        "chipset": "Z390",
+        "precio": 200,
+        "imagen": "./img/MSI MPG Z390 Gaming Pro Carbon.jpeg"
+    },
+    {
+        "modelo": "ASUS TUF Z370-PLUS Gaming",
+        "marca": "ASUS",
+        "socket": "LGA 1151",
+        "chipset": "Z370",
+        "precio": 160,
+        "imagen": "./img/ASUS TUF Z370-PLUS Gaming.jpeg"
+    },
+    {
+        "modelo": "ASUS Z97-A",
+        "marca": "ASUS",
+        "socket": "LGA 1150",
+        "chipset": "Z97",
+        "precio": 180,
+        "imagen": "./img/ASUS Z97-A.jpeg"
+    },
+    {
+        "modelo": "MSI Z97 Gaming 5",
+        "marca": "MSI",
+        "socket": "LGA 1150",
+        "chipset": "Z97",
+        "precio": 160,
+        "imagen": "./img/MSI Z97 Gaming 5.jpeg"
+    },
+    {
+        "modelo": "Gigabyte Z97X-UD3H-BK",
+        "marca": "Gigabyte",
+        "socket": "LGA 1150",
+        "chipset": "Z97",
+        "precio": 150,
+        "imagen": "./img/Gigabyte Z97X-UD3H-BK.jpeg"
+    },
+    {
+        "modelo": "ASRock Z97 Extreme4",
+        "marca": "ASRock",
+        "socket": "LGA 1150",
+        "chipset": "Z97",
+        "precio": 140,
+        "imagen": "./img/ASRock Z97 Extreme4.jpeg"
+    }
+]

@@ -1,0 +1,131 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f5;
+    color: #333;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 1vh;
+    text-align: center;
+}
+
+.container {
+    flex: 1;
+    margin: 3vh;
+    padding: 2vh;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 1.5vh;
+    display: flex;
+    flex-direction: row;
+    gap: 2vw;
+}
+
+#busqueda {
+    width: 25%;
+    padding: 2vh;
+    box-sizing: border-box;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 1.5vh;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}
+
+label {
+    font-weight: 500;
+    margin-bottom: 1vh;
+    font-size: 1.1rem;
+}
+
+select {
+    padding: 1.5vh;
+    border-radius: 1vh;
+    border: 1px solid #dcdcdc;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-size: 1rem;
+}
+
+.btn {
+    padding: 1.5vh 2vw;
+    border: none;
+    border-radius: 1vh;
+    background-color: #007BFF;
+    color: #ffffff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+.resultado {
+    flex: 2;
+}
+
+.resultado h2 {
+    color: #007BFF;
+    font-size: 2.5vh;
+    font-weight: 600;
+}
+
+.resultado-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2vh;
+    padding: 2vh;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 1vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+    width: 65%;
+}
+
+.resultado-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.resultado-img {
+    width: 10vh;
+    height: auto;
+    margin-right: 2vw;
+}
+
+.resultado-item p {
+    margin: 0;
+    font-size: 1.6vh;
+    flex: 1;
+}
+
+.resultado-item button {
+    padding: 1.5vh 2vw;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 1vh;
+    margin-top: 1vh;
+    transition: background-color 0.3s;
+}
+
+.resultado-item button:hover {
+    background-color: #45a049;
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "modelo": "NZXT H510",
+        "marca": "NZXT",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 100,
+        "imagen": "./img/NZXT H510.jpg"
+    },
+    {
+        "modelo": "Corsair 4000D",
+        "marca": "Corsair",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 95,
+        "imagen": "./img/Corsair 4000D.jpg"
+    },
+    {
+        "modelo": "Cooler Master MasterBox Q300L",
+        "marca": "Cooler Master",
+        "factorForma": "Micro-ATX",
+        "compatibilidad": "Micro-ATX, Mini-ITX",
+        "precio": 60,
+        "imagen": "./img/Cooler Master MasterBox Q300L.jpg"
+    },
+    {
+        "modelo": "Fractal Design Meshify C",
+        "marca": "Fractal Design",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 110,
+        "imagen": "./img/Fractal Design Meshify C.jpeg"
+    },
+    {
+        "modelo": "Thermaltake Core P3",
+        "marca": "Thermaltake",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 150,
+        "imagen": "./img/Thermaltake Core P3.jpg"
+    },
+    {
+        "modelo": "Lian Li PC-O11 Dynamic",
+        "marca": "Lian Li",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 140,
+        "imagen": "./img/Lian Li PC-O11 Dynamic.jpeg"
+    },
+    {
+        "modelo": "Phanteks Eclipse P300A",
+        "marca": "Phanteks",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 75,
+        "imagen": "./img/Phanteks Eclipse P300A.jpeg"
+    },
+    {
+        "modelo": "be quiet! Pure Base 500",
+        "marca": "be quiet!",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 90,
+        "imagen": "./img/be quiet! Pure Base 500.jpeg"
+    },
+    {
+        "modelo": "Thermaltake V200",
+        "marca": "Thermaltake",
+        "factorForma": "ATX",
+        "compatibilidad": "ATX, Micro-ATX, Mini-ITX",
+        "precio": 70,
+        "imagen": "./img/Thermaltake V200.jpg"
+    },
+    {
+        "modelo": "SilverStone SG13",
+        "marca": "SilverStone",
+        "factorForma": "Mini-ITX",
+        "compatibilidad": "Mini-ITX",
+        "precio": 55,
+        "imagen": "./img/SilverStone SG13.jpg"
+    }
+]

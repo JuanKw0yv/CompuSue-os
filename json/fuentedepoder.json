@@ -1,0 +1,146 @@
+[
+    {
+        "modelo": "Corsair RM550x",
+        "marca": "Corsair",
+        "potencia": 550,
+        "certificacion": "80 Plus Gold",
+        "precio": 90,
+        "imagen": "./img/Corsair RM550x.jpg"
+    },
+    {
+        "modelo": "EVGA SuperNOVA 650 G5",
+        "marca": "EVGA",
+        "potencia": 650,
+        "certificacion": "80 Plus Gold",
+        "precio": 120,
+        "imagen": "./img/EVGA SuperNOVA 650 G5.jpeg"
+    },
+    {
+        "modelo": "Seasonic Focus GX-750",
+        "marca": "Seasonic",
+        "potencia": 750,
+        "certificacion": "80 Plus Gold",
+        "precio": 130,
+        "imagen": "./img/Seasonic Focus GX-750.jpg"
+    },
+    {
+        "modelo": "Corsair RM850x",
+        "marca": "Corsair",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 140,
+        "imagen": "./img/Corsair RM850x.jpeg"
+    },
+    {
+        "modelo": "Cooler Master V850",
+        "marca": "Cooler Master",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 150,
+        "imagen": "./img/Cooler Master V850.jpg"
+    },
+    {
+        "modelo": "Thermaltake Toughpower GF1 650W",
+        "marca": "Thermaltake",
+        "potencia": 650,
+        "certificacion": "80 Plus Gold",
+        "precio": 110,
+        "imagen": "./img/Thermaltake Toughpower GF1 650W.jpg"
+    },
+    {
+        "modelo": "ASUS ROG Strix 750W",
+        "marca": "ASUS",
+        "potencia": 750,
+        "certificacion": "80 Plus Gold",
+        "precio": 135,
+        "imagen": "./img/ASUS ROG Strix 750W.jpeg"
+    },
+    {
+        "modelo": "NZXT C850",
+        "marca": "NZXT",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 140,
+        "imagen": "./img/NZXT C850.jpeg"
+    },
+    {
+        "modelo": "be quiet! Straight Power 11 850W",
+        "marca": "be quiet!",
+        "potencia": 850,
+        "certificacion": "80 Plus Platinum",
+        "precio": 160,
+        "imagen": "./img/be quiet! Straight Power 11 850W.jpg"
+    },
+    {
+        "modelo": "Corsair AX1000",
+        "marca": "Corsair",
+        "potencia": 1000,
+        "certificacion": "80 Plus Titanium",
+        "precio": 280,
+        "imagen": "./img/Corsair AX1000.jpg"
+    },
+    {
+        "modelo": "EVGA SuperNOVA 1000 T2",
+        "marca": "EVGA",
+        "potencia": 1000,
+        "certificacion": "80 Plus Titanium",
+        "precio": 300,
+        "imagen": "./img/EVGA SuperNOVA 1000 T2.jpeg"
+    },
+    {
+        "modelo": "Seasonic Prime TX-850",
+        "marca": "Seasonic",
+        "potencia": 850,
+        "certificacion": "80 Plus Titanium",
+        "precio": 250,
+        "imagen": "./img/Seasonic Prime TX-850.jpeg"
+    },
+    {
+        "modelo": "Thermaltake Toughpower iRGB Plus 850W",
+        "marca": "Thermaltake",
+        "potencia": 850,
+        "certificacion": "80 Plus Platinum",
+        "precio": 190,
+        "imagen": "./img/Thermaltake Toughpower iRGB Plus 850W.jpg"
+    },
+    {
+        "modelo": "Cooler Master MWE Gold 650 V2",
+        "marca": "Cooler Master",
+        "potencia": 650,
+        "certificacion": "80 Plus Gold",
+        "precio": 90,
+        "imagen": "img/Cooler Master MWE Gold 650 V2.jpg"
+    },
+    {
+        "modelo": "MSI MPG A850GF",
+        "marca": "MSI",
+        "potencia": 850,
+        "certificacion": "80 Plus Gold",
+        "precio": 130,
+        "imagen": "./img/MSI MPG A850GF.jpeg"
+    },
+    {
+        "modelo": "Gigabyte P750GM",
+        "marca": "Gigabyte",
+        "potencia": 750,
+        "certificacion": "80 Plus Gold",
+        "precio": 100,
+        "imagen": "./img/Gigabyte P750GM.jpeg"
+    },
+    {
+        "modelo": "be quiet! Dark Power Pro 12 1200W",
+        "marca": "be quiet!",
+        "potencia": 1200,
+        "certificacion": "80 Plus Titanium",
+        "precio": 400,
+        "imagen": "./img/be quiet! Dark Power Pro 12 1200W.jpg"
+    },
+    {
+        "modelo": "ASUS ROG Thor 1200W",
+        "marca": "ASUS",
+        "potencia": 1200,
+        "certificacion": "80 Plus Platinum",
+        "precio": 350,
+        "imagen": "./img/ASUS ROG Thor 1200W.jpeg"
+    }
+]

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Componente de Computadora</title>
+    <link rel="stylesheet" href="./style/main.css">
+    <link rel="stylesheet" href="./style/carrito.css">
+</head>
+<header>
+    <h1>CompuSueños</h1>
+</header>
+
+<body>
+    <div class="container">
+        <div class="busqueda">
+            <h1>Buscar Componentes</h1>
+            <form id="formulario">
+                <label for="categoria">Categoría:</label>
+                <select id="categoria" name="categoria" onchange="actualizarSubcategoria()">
+                    <option value="">Selecciona una categoría</option>
+                    <option value="procesadores">Procesadores</option>
+                    <option value="motherboards">Motherboards</option>
+                    <option value="tarjetas">Tarjetas de Video</option>
+                    <option value="fuentes">Fuentes de Poder</option>
+                    <option value="almacenamiento">Almacenamiento</option>
+                    <option value="ram">Memorias RAM</option>
+                    <option value="gabinetes">Gabinetes</option>
+                </select>
+
+                <div id="subcategoriaContainer" style="display: none;">
+                    <label for="subcategoria">Tipo:</label>
+                    <select id="subcategoria" name="subcategoria">
+                    </select>
+                </div>
+
+                <button type="button" class="btn" onclick="mostrarDatos()">Buscar</button>
+            </form>
+        </div>
+
+        <div class="resultado" id="resultado"></div>
+        <div class="carrito" id="carrito">
+            <h2>Carrito</h2>
+            <ul id="carritoItems"></ul>
+            <div id="botonesCarrito">
+                <button class="btn" id="comprar" onclick="irFormularioPago()">Comprar</button>
+                <button class="btn btn-vaciar" onclick="vaciarCarrito()">Vaciar Carrito</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./js/main.js"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="./js/pago.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>
