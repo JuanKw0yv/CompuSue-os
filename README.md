@@ -1,0 +1,1 @@
+Este trabajo le pertenece a Juan Emanuel Castillo, hize lo mejor que pude, hay algunas cosas que no pude resolver, como que se muestren las imagenes en el resumen de compra, la idea es de una pagina como CompraGamer, espero que sea de su agrado y agradeceria algun que otro consejo si tiene para darme sobre como mejorar. Saludos
